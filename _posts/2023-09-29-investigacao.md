@@ -32,5 +32,8 @@ Transcrição Principais Pontos da Entrevista:
 
 Ao jogar o Jogo **Cidade dos Sinais** o tempo gasto para complementar 1 rodada foi de 2minutos e 15 segundos, considerando que o usário não tinha nenhum conhecimento prévio do jogo e de libras.
 
-Com essa simulação, podemos vivenciar o problema enfrentado por nossa usuária, quando ela deseja pesquisar um sinal que está nos jogos. O tempo é um fator importante e ele pode ser longo caso ela deseje procurar um sinal que está no final do jogo.
+Com essa simulação, podemos vivenciar o problema enfrentado por nossa usuária, quando ela deseja pesquisar um sinal que está nos jogos. O tempo é um fator importante e ele pode ser longo caso ela deseje procurar um sinal que possa aparecer apenas ao final do jogo.
 
+![Fases](https://github.com/YasminDeodato/IHC_DicionarioLibras/blob/master/Cidade%20dos%20Sinais%20-%20fases.PNG?raw=true)
+
+![Sinal](https://github.com/YasminDeodato/IHC_DicionarioLibras/blob/master/Cidade%20dos%20Sinais%20-%20Sinal.PNG?raw=true)
