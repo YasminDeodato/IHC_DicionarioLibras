@@ -16,3 +16,4 @@ subtitle: Informações do Grupo
 ### Metodologia
 
 * Uso do **WhatsApp** para comunicação;
+* Uso do **Google Meets** para fazer a reunião;
