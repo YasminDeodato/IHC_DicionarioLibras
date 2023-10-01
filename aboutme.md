@@ -19,4 +19,4 @@ Os métodos utilizados foram a _Entrevista_  e _Simulação_ . A entrevista nos 
 
 * Uso do **WhatsApp** para comunicação;
 * Uso do **Google Meets** para fazer a _Entrevista_;
-* Jogo usado para fazer a  _Simulção_[Jogo "Cidade dos Sinais"](https://cegi.unifesp.br/cidade-dos-sinais);
+* Jogo usado para fazer a  _Simulção_ [Jogo "Cidade dos Sinais"](https://cegi.unifesp.br/cidade-dos-sinais);
