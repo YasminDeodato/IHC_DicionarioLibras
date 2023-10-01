@@ -15,7 +15,7 @@ subtitle: Informações do Grupo
 
 ### Metodologia
 
-    Os métodos utilizados foram a _Entrevista_ e _Simulação_. A entrevista nos ajudou a entender qual era o problema exato do usuário e o role-playing a sentir a dor do usuário, assim nos dando ideias de como melhorar sua experiência.
+    Os métodos utilizados foram a _Entrevista_  e _Simulação_ . A entrevista nos ajudou a entender qual era o problema exato do usuário e o role-playing a sentir a dor do usuário, assim nos dando ideias de como melhorar sua experiência.
 
 * Uso do **WhatsApp** para comunicação;
 * Uso do **Google Meets** para fazer a _Entrevista_;
