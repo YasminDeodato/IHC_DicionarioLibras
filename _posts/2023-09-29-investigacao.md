@@ -34,6 +34,6 @@ Ao jogar o Jogo **Cidade dos Sinais** o tempo gasto para complementar 1 rodada f
 
 Com essa simulação, podemos vivenciar o problema enfrentado por nossa usuária, quando ela deseja pesquisar um sinal que está nos jogos. O tempo é um fator importante e ele pode ser longo caso ela deseje procurar um sinal que possa aparecer apenas ao final do jogo.
 
-![Fases](https://github.com/YasminDeodato/IHC_DicionarioLibras/blob/master/Cidade%20dos%20Sinais%20-%20fases.PNG?raw=true)
+![Fases](/assets/img/posts/CidadeDosSinais-Fases.png)
 
-![Sinal](https://github.com/YasminDeodato/IHC_DicionarioLibras/blob/master/Cidade%20dos%20Sinais%20-%20Sinal.PNG?raw=true)
+![Sinal](/assets/img/posts/CidadeDosSinais-Sinal.png)
